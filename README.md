@@ -29,6 +29,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarceloJoao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloJoao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloJoao&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/pEgkgGn9aFUAAAAC/pulando-de-alegria-rindo.gif"  />
 </div>
 
 ###
@@ -47,9 +54,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MarceloJoao/MarceloJoao/output/snake.svg" alt="Snake animation" />
 
 ###
